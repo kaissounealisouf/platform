@@ -1,6 +1,6 @@
-// const App =(Component,propsPages)=>{
+const MyApp =({Component,pagesProps})=>{
 
-//     return(Component,...propsPages)
-// }
-// export  default App;
+    return<Component {...pagesProps}/>
+}
+export  default MyApp;
 // npm i antd bootstrap
