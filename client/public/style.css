@@ -1,0 +1,12 @@
+h1{
+    /* text-align: center; */
+}
+
+.square{
+  border-radius: 0px;
+}
+
+.jumbotron{
+    background-image: linear-gradient(to right ,blue,black );
+    color : white;
+}
